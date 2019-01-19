@@ -43,7 +43,7 @@ export const Portfolio = (props) => {
             </Grid>
             <Grid item xs={12}>
                 <Tooltip classes={{ tooltip: classes.tooltip }} title='Cookbook App'>
-                    <a target='_blank' href='https://cool-poll.herokuapp.com/'>
+                    <a target='_blank' href='https://momscookbook-webapp.herokuapp.com/'>
                         <Paper classes={{root: classes.paperProjects}}>
                             <img width='100%' height='auto' src='images/CookBook App1.png' />
                         </Paper>
@@ -61,7 +61,7 @@ export const Portfolio = (props) => {
             </Grid>
             <Grid item md={6}>
                 <Tooltip classes={{ tooltip: classes.tooltip }} title='Weather App'>
-                    <a target='_blank' href='https://weather-app2.herokuapp.com/'>
+                    <a target='_blank' href='https://zaneecampbell.github.io/weather-final/'>
                         <Paper classes={{root: classes.paperProjects}}>
                             <img width='100%' height='auto' src='images/Weather App2.png' />
                         </Paper>
@@ -75,4 +75,4 @@ export const Portfolio = (props) => {
 
 export default withStyles(styles)(Portfolio);
 
-// Add 2 more projects in place of placeholder
+// Done
