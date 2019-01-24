@@ -63,7 +63,7 @@ export const Portfolio = (props) => {
                 <Tooltip classes={{ tooltip: classes.tooltip }} title='Weather App'>
                     <a target='_blank' href='https://zaneecampbell.github.io/weather-final/'>
                         <Paper classes={{root: classes.paperProjects}}>
-                            <img width='100%' height='auto' src='images/Weather App2.png' />
+                            <img width='100%' height='auto' src='images/Weather App3.png' />
                         </Paper>
                     </a>
                 </Tooltip>
