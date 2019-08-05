@@ -1,3 +1,5 @@
+!important: this website is currently out of date as I work on fullstack applications, while the information is still relavent my skills have expanded and my projects increased!
+
 RECREATION OF PORTFOLIO-SITE-3 originally built with an express backend when it was hosted on heroku but is now hosted on github pages
 
 This is my 3rd rebuild of a portfolio site.
